@@ -1,8 +1,8 @@
-
 package Chapter01;
 
 /**
- * Program to calculate the sum of 4.5x2, and 7.9x2, and the product of 4.5 and 7.9
+ * Program to calculate the sum of 4.5x2, and 7.9x2, and the product of 4.5 and
+ * 7.9
  *
  * @author Nicholas Philip
  */
